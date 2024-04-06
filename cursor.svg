@@ -11,11 +11,25 @@
         }
 
         .blinking-cursor {
+          --color-main: #03A062;
           display: inline-block;
           animation: blinking-cursor 1s linear -0.5s infinite;
           width: 20px;
           height: 40px;
-          background-color: white;
+          background-color: var(--color-main);
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .blinking-cursor {
+            --color-main: #eeeeee;
+          }
+        }
+
+
+         @media (prefers-reduced-motion) {
+          .blinking-cursor {
+            animation: none;
+          }
         }
       </style>
         <div class="blinking-cursor"></div>

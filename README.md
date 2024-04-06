@@ -13,7 +13,7 @@
     - Meal Planning App - [the-real-x repo](https://github.com/chadchristensen/the-real-x) | [the-real-x project board](https://github.com/users/chadchristensen/projects/4)
 
 - 📫 How to reach me:
-    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chadthecoder/)
+    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chadthecoder/) ![Blinking cursor animation](cursor.svg)
 
 - 🌱 I’m currently diving deep into Next.js 14+ and Docker
 

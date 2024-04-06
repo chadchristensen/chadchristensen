@@ -1,0 +1,24 @@
+<svg fill="none" viewBox="0 0 5 22" width="5" height="22" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+
+        @keyframes blinking-cursor  {
+           0% { opacity:  1 }
+          40% { opacity: 1 }
+          50% { opacity: 0.1 }
+         100% { opacity: 0 }
+        }
+
+        .blinking-cursor {
+          display: inline-block;
+          animation: blinking-cursor 1s linear -0.5s infinite;
+          width: 20px;
+          height: 40px;
+          background-color: white;
+        }
+      </style>
+        <div class="blinking-cursor"></div>
+    </div>
+  </foreignObject>
+</svg>

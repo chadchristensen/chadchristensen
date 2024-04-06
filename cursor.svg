@@ -11,7 +11,7 @@
         }
 
         .blinking-cursor {
-          --color-main: #03A062;
+          --color-main: #111111;
           display: inline-block;
           animation: blinking-cursor 1s linear -0.5s infinite;
           width: 20px;
@@ -21,7 +21,7 @@
 
         @media (prefers-color-scheme: dark) {
           .blinking-cursor {
-            --color-main: #eeeeee;
+            --color-main: #03A062;
           }
         }
 

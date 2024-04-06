@@ -11,7 +11,7 @@
         }
 
         .blinking-cursor {
-          --color-main: #111111;
+          --color-main: #000000;
           display: inline-block;
           animation: blinking-cursor 1s linear -0.5s infinite;
           width: 20px;

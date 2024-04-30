@@ -9,12 +9,15 @@
 ## ☝🏻 About Me:
 - 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on: 
+- 🔭 I’m currently working on:
     - A curated list of items programmers will love [www.giftsforprogrammers.vercel.app](https://giftsforprogrammers.vercel.app/)
     - Meal Planning App - [the-real-x repo](https://github.com/chadchristensen/the-real-x) | [the-real-x project board](https://github.com/users/chadchristensen/projects/4)
+    - ![Blinking cursor animation](cursor.svg)
 
 - 📫 How to reach me:
-    [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chadthecoder/) ![Blinking cursor animation](cursor.svg)
+    - Contact me on LinkedIn: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chadthecoder/)
+    - Scan the QR code with your phone's camera for more contact options:
+    <img src="https://github.com/chadchristensen/chadchristensen/assets/9570077/fe73b955-538d-474a-812d-7c076ee2f38a" alt="QR Code for Chad Christensen's contact details" width="188" height="188"/>
 
 - 🌱 I’m currently diving deep into Next.js 14+ and Docker
 
@@ -27,7 +30,7 @@
 ## 💻 My Tech:
 <div>
   <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;

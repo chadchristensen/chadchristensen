@@ -23,7 +23,7 @@ I am a product-minded software engineer, empathetic educator, and lifelong learn
 
 ## How to Reach Me 📫:
 * :email: [Email](mailto:chadchristensen2@gmail.com)
-* :link: [LinkedIn]([chadlikendin](https://www.linkedin.com/in/chadthecoder/))
+* :link: [LinkedIn](https://www.linkedin.com/in/chadthecoder/)
 * :wave: HiHello
 
   <img src="https://github.com/chadchristensen/chadchristensen/assets/9570077/fe73b955-538d-474a-812d-7c076ee2f38a" alt="QR Code for Chad Christensen's contact details" width="188" height="188"/>
